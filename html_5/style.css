@@ -1,3 +1,65 @@
 body{
     background-color: forestgreen;
 }
+
+h1{
+    color: blue;
+
+}
+
+#container{
+    background-color: darkgreen;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: black;
+    font-size: 30px;
+}
+nav {
+    text-align: center;
+    border-top: 4px solid darkgreen;
+    border-bottom: 4px solid darkgreen;
+    padding: 10px 0;
+
+}
+
+nav a {
+    color: blue;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: lightblue;
+
+}
+
+main h2 {
+    color: black;
+    font-size: 24px;
+}
+main img {
+   display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: darkgreen;
+    color: black;
+    margin-top: 20px;
+}
