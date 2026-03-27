@@ -6,7 +6,7 @@
     target="_blank">intro_html</a></li>
 
 
-<li<a href="html_5"
+<a href="html_5"
     target="blank">html_5<a><li>
 
 <ul>
