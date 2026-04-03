@@ -6,6 +6,6 @@
 
 <li><a href="html_5_css/index.html" target="blank">html_5<a><li>
 
-<li><a href="avd_css/index.html" target="_blank">Advanced CSS</a></li>>
+<li><a href="avd_css/index.html" target="_blank">Advanced CSS</a></li>
 
 </ul>
