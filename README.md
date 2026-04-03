@@ -1,12 +1,11 @@
 # Web Design Projects
 
-<ul>
-    
- <li><a href="intro_html"
-    target="_blank">intro_html</a></li>
+<ul>   
+ <li><a href="intro_html/index.html" target="_blank">intro_html</a></li>
 
 
-<a href="html_5"
-    target="blank">html_5<a><li>
+<li><a href="html_5_css/index.html" target="blank">html_5<a><li>
 
-<ul>
+<li><a href="avd_css/index.html" target="_blank">Advanced CSS</a></li>>
+
+</ul>
